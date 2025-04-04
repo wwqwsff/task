@@ -1,0 +1,1 @@
+const dogName = 'Masha'
