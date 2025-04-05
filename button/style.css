@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(143, 143, 202);
+}
+.btn1{
+    font-size: 50px;
+    font-weight: 50px;
+    color: rgb(122, 122, 192);
+    background-color: azure;
+
+}
+.btn2{
+    font-size: 50px;
+    font-weight: 10px;
+    color:rgb(122, 122, 192);
+    background-color: azure;
+}
+.button-one{
+    text-align: center;
+}
+body{
+    background-color: rgb(91, 91, 158);
+}
+.info{
+    text-align: center;
+    color:azure;
+}
+.div-new{
+    text-align: center;
+}
